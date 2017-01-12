@@ -9,7 +9,7 @@ A collection of resources for writing code **in Java** for the FIRST Robotics Co
 * [WPI Java Library API Referenec Guide](http://first.wpi.edu/FRC/roborio/release/docs/java/)
 * [2017 FRC Control System](https://wpilib.screenstepslive.com/s/4485/m/13809)
 
-### Unoffical Guide's
+### Unoffical Guides
 * [Team 2168's FRC Java API Guide](http://team2168.org/images/stories/Tutorials/Programming/FRC%20Java%20API.pdf)
 
 ### Tutorials
