@@ -13,5 +13,8 @@ A collection of resources for writing code **in Java** for the FIRST Robotics Co
 * [Team 2168's FRC Java API Guide](http://team2168.org/images/stories/Tutorials/Programming/FRC%20Java%20API.pdf)
 
 ### Tutorials
-* [FRC "Hello World"](http://wpilib.screenstepslive.com/s/3120/m/7885/l/79459-the-hello-world-of-frc-robot-programming) 
-* [Creating a Benchtop Test Program](http://wpilib.screenstepslive.com/s/4485/m/13809/l/145307-creating-your-benchtop-test-program)
+* [WPI "Hello World Program"](http://wpilib.screenstepslive.com/s/3120/m/7885/l/79459-the-hello-world-of-frc-robot-programming) 
+* [WPI "Creating a Benchtop Test Program"](http://wpilib.screenstepslive.com/s/4485/m/13809/l/145307-creating-your-benchtop-test-program)
+
+### Useful Respositories
+* [Team 2168 Vision Example](https://github.com/Team2168/2168_Vision_Example)
